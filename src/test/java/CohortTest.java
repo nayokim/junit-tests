@@ -57,6 +57,7 @@ public class CohortTest {
         apex.addStudent(fer);
         apex.addStudent(douglas);
         assertEquals(95.0, cohortWithMany.getCohortAverage(), 0);
+
     }
 
 }
